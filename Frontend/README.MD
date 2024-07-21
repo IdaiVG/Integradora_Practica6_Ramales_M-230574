@@ -19,6 +19,6 @@ Integradora-practic06<br>
 ## Equipo de Desarollo
 | Integrante | Contacto | Rol | Observaciones |
 |-------------|--------|----------|---------------|
-|Angel de Jesús Rufino Mendoza|[@RufinoAngel](https://github.com/RufinoAngel)|Lider de derrollo de FrontEnd| ✅Revisado y aprobado
-|Ana Daniela Lopez Neri|  [@DanielaLopez66](https://github.com/DanielaLopez66)      |   Desarrollador de  FrontEnd   |🫥 Sin revisión|
-|Guadalupe Idai Vargas Galindo|[@IdaiVG](https://github.com/IdaiVG)|Desarrollador FrontEnd|🫥Sin revisión|
+|Angel de Jesus Rufino Mendoza|[@RufinoAngel](https://github.com/RufinoAngel)|Lider de desarrollo de Frontend| ✅Revisado y aprobado
+ |Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|   Desarrollador de  Frontend|🫥Sin revisión|
+|Guadalupe Idai Vargas Galindo|[@IdaiVG](https://github.com/IdaiVG)|Desarrollador Frontend|🫥Sin revisión
